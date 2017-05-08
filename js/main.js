@@ -1,6 +1,6 @@
 function saludar(){
-	return console.log("hola mundo");
+	return console.log("Chao mundo");
 	var hola = document.getElementById("contenido");
-	hola.innerHTML = "hola mundo";
+	hola.innerHTML = "chao mundo";
 }
 saludar();
